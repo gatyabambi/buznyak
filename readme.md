@@ -1,2 +1,2 @@
 # hello
-ez egy readme
+ez egy readmegatya nwmtit
